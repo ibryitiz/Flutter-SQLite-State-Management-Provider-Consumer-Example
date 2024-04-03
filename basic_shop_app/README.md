@@ -1,16 +1,20 @@
-# basic_shop_app
+# ISAR Veritabanı Kullanarak Todo Uygulaması
 
-A new Flutter project.
+Bu uygulama, Sqlite veritabanını kullanarak geliştirilmiş bir Coffee Shop uygulamasıdır. Uygulama kullanıcı dostu bir arayüz sunar ve görevleri kolayca yönetmenize olanak tanır.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- Ürün Listeleme
+- Tasarım
 
-A few resources to get you started if this is your first Flutter project:
+## Kullanılan Teknolojiler
+- Sqlite Veritabanı
+- Provider
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Uygulama Resimleri
+
+| Resim 1 | Resim 2 | Resim 3 | Resim 4 | Resim 5 |
+|---------|---------|---------|---------|---------|
+| ![Resim 1](https://github.com/ibryitiz/isar_database_with_provider/blob/main/RES%C4%B0MLER/isar_1.png?raw=true) | ![Resim 2](https://github.com/ibryitiz/isar_database_with_provider/blob/main/RES%C4%B0MLER/isar_2.png?raw=true) |![Resim 3](https://github.com/ibryitiz/isar_database_with_provider/blob/main/RES%C4%B0MLER/isar_3.png?raw=true) | ![Resim 4](https://github.com/ibryitiz/isar_database_with_provider/blob/main/RES%C4%B0MLER/isar_4.png?raw=true) |![Resim 5](https://github.com/ibryitiz/isar_database_with_provider/blob/main/RES%C4%B0MLER/isar_5.png?raw=true) |
