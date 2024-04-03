@@ -15,6 +15,6 @@ Bu uygulama, Sqlite veritabanını kullanarak geliştirilmiş bir Coffee Shop uy
 
 ### Uygulama Resimleri
 
-| Resim 1 | Resim 2 | Resim 3 | Resim 4 | Resim 5 |
-|---------|---------|---------|---------|---------|
-| ![Resim 1](https://github.com/ibryitiz/isar_database_with_provider/blob/main/RES%C4%B0MLER/isar_1.png?raw=true) | ![Resim 2](https://github.com/ibryitiz/isar_database_with_provider/blob/main/RES%C4%B0MLER/isar_2.png?raw=true) |![Resim 3](https://github.com/ibryitiz/isar_database_with_provider/blob/main/RES%C4%B0MLER/isar_3.png?raw=true) | ![Resim 4](https://github.com/ibryitiz/isar_database_with_provider/blob/main/RES%C4%B0MLER/isar_4.png?raw=true) |![Resim 5](https://github.com/ibryitiz/isar_database_with_provider/blob/main/RES%C4%B0MLER/isar_5.png?raw=true) |
+| Resim 1 | Resim 2 | Resim 3 | Resim 4 | Resim 5 | Resim 6 |
+|---------|---------|---------|---------|---------|---------|
+| ![Resim 1](https://github.com/ibryitiz/Flutter-SQLite-State-Management-Provider-Consumer-Example/blob/main/resimler/resim_1.png) | ![Resim 2](https://github.com/ibryitiz/Flutter-SQLite-State-Management-Provider-Consumer-Example/blob/main/resimler/resim_2.png) |![Resim 3](https://github.com/ibryitiz/Flutter-SQLite-State-Management-Provider-Consumer-Example/blob/main/resimler/resim_3.png) | ![Resim 4](https://github.com/ibryitiz/Flutter-SQLite-State-Management-Provider-Consumer-Example/blob/main/resimler/resim_4.png) |![Resim 5](https://github.com/ibryitiz/Flutter-SQLite-State-Management-Provider-Consumer-Example/blob/main/resimler/resim_5.png) | ![Resim 6](https://github.com/ibryitiz/Flutter-SQLite-State-Management-Provider-Consumer-Example/blob/main/resimler/resim_6.png) |
