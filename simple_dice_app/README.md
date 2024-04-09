@@ -14,5 +14,9 @@ Bu Flutter uygulaması, kullanıcının bir zar atmasını sağlar. Kullanıcı 
 
 - **Durum Yönetimi**: Uygulamada `provider` paketi kullanılarak durum yönetimi sağlanır. Bu sayede zarın hangi sayıyı gösterdiği gibi uygulama durumları kolayca yönetilebilir.
 
-### Resim:
-![dice_resim](https://github.com/ibryitiz/Flutter-SQLite-State-Management-Provider-Consumer-Example/assets/156498407/5b72da44-5035-4256-a9ff-bc688b926cf8)
+### Uygulama Resimleri
+
+| Resim 1 | 
+|---------|
+| ![Resim 1](https://github.com/ibryitiz/Flutter-SQLite-State-Management-Provider-Consumer-Example/blob/main/resimler/dice_resim.png) |
+
