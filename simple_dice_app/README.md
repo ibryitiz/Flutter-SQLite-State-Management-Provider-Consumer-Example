@@ -1,16 +1,22 @@
-# simple_dice_app
+# Basit Zar Atma Uygulaması
 
-A new Flutter project.
+Bu Flutter uygulaması, kullanıcının bir zar atmasını sağlar. Kullanıcı her atışta rastgele bir sayı elde eder.
 
-## Getting Started
+## Kullanılan Teknolojiler
 
-This project is a starting point for a Flutter application.
+- **Flutter**: UI (Kullanıcı Arayüzü) oluşturmak için kullanılan Google'ın açık kaynaklı mobil uygulama SDK'sı.
+- **Dart**: Flutter uygulamalarını geliştirmek için kullanılan programlama dili.
+- **Provider**: Uygulama genelinde durum yönetimi sağlamak için kullanılan bir paket.
 
-A few resources to get you started if this is your first Flutter project:
+## Uygulama İçeriği
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Ana Ekran**: Uygulamanın başlangıç ekranı, kullanıcıya bir "Zar Resim" düğmesi sağlar. Bu resime tıklandığında, bir zarın üst yüzeyinde rastgele bir sayı gösterilir.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Durum Yönetimi**: Uygulamada `provider` paketi kullanılarak durum yönetimi sağlanır. Bu sayede zarın hangi sayıyı gösterdiği gibi uygulama durumları kolayca yönetilebilir.
+
+### Uygulama Resimleri
+
+| Resim 1 | 
+|---------|
+| ![Resim 1](https://github.com/ibryitiz/Flutter-SQLite-State-Management-Provider-Consumer-Example/blob/main/resimler/dice_resim.png) |
+
